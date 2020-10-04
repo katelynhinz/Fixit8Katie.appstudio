@@ -11,5 +11,9 @@ btnFirstName.onclick=function(){
     lblIsMember.textContent = "That first name is not a member, we will add it to the array of members"
     members.push(memberName)
   }
-  console.log(members)
+  
+}
+
+btnNextForm2.onclick=function(){
+    ChangeForm(calculator)
 }
