@@ -46,6 +46,14 @@
             "membership",
             "membership.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculator",
+            "calculator.json"
+          ]
         }
       ],
       "configxml": null,
@@ -69,7 +77,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "membership",
+      "firstform": "login",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
