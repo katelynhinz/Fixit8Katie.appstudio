@@ -18,6 +18,15 @@
         "Elements",
         "lblMessage.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "welcome",
+        "Elements",
+        "btnNextForm1.json"
+      ]
     }
   ],
   "class": "",
